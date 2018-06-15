@@ -1,0 +1,20 @@
+
+WAP To Draw the Pattern Mention in a Question
+
+
+
+WAP To find Even Numbers Up to N
+
+
+WAP To find Prime Numbers Up to N
+
+
+WAP To Check Number is Armstrong Or Not
+WAP to The reverse of the Number
+
+
+
+Wap to Sort an Array in ascending Order
+
+Wap to Check a Number is in the array or not in least computation.
+
